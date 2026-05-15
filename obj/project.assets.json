@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "/home/peter/Documents/Programming_Projects/ChessAlgo/ChessAlgo.csproj",
+      "projectUniqueName": "/home/peter/Programming_Projects/ChessAlgo/ChessAlgo.csproj",
       "projectName": "ChessAlgo",
-      "projectPath": "/home/peter/Documents/Programming_Projects/ChessAlgo/ChessAlgo.csproj",
+      "projectPath": "/home/peter/Programming_Projects/ChessAlgo/ChessAlgo.csproj",
       "packagesPath": "/home/peter/.nuget/packages/",
-      "outputPath": "/home/peter/Documents/Programming_Projects/ChessAlgo/obj/",
+      "outputPath": "/home/peter/Programming_Projects/ChessAlgo/obj/",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "/home/peter/.nuget/NuGet/NuGet.Config"

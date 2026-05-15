@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "cNnsP9skIIA=",
+  "dgSpecHash": "Yd1OBWgElIY=",
   "success": true,
-  "projectFilePath": "/home/peter/Documents/Programming_Projects/ChessAlgo/ChessAlgo.csproj",
+  "projectFilePath": "/home/peter/Programming_Projects/ChessAlgo/ChessAlgo.csproj",
   "expectedPackageFiles": [
     "/home/peter/.nuget/packages/microsoft.aspnetcore.app.ref/10.0.4/microsoft.aspnetcore.app.ref.10.0.4.nupkg.sha512"
   ],
