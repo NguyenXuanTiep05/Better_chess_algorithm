@@ -1,0 +1,14 @@
+/home/peter/Documents/Programming_Projects/ChessAlgo/obj/Debug/net10.0/ChessAlgo.GeneratedMSBuildEditorConfig.editorconfig
+/home/peter/Documents/Programming_Projects/ChessAlgo/obj/Debug/net10.0/ChessAlgo.AssemblyInfoInputs.cache
+/home/peter/Documents/Programming_Projects/ChessAlgo/obj/Debug/net10.0/ChessAlgo.AssemblyInfo.cs
+/home/peter/Documents/Programming_Projects/ChessAlgo/obj/Debug/net10.0/ChessAlgo.csproj.CoreCompileInputs.cache
+/home/peter/Documents/Programming_Projects/ChessAlgo/bin/Debug/net10.0/ChessAlgo
+/home/peter/Documents/Programming_Projects/ChessAlgo/bin/Debug/net10.0/ChessAlgo.deps.json
+/home/peter/Documents/Programming_Projects/ChessAlgo/bin/Debug/net10.0/ChessAlgo.runtimeconfig.json
+/home/peter/Documents/Programming_Projects/ChessAlgo/bin/Debug/net10.0/ChessAlgo.dll
+/home/peter/Documents/Programming_Projects/ChessAlgo/bin/Debug/net10.0/ChessAlgo.pdb
+/home/peter/Documents/Programming_Projects/ChessAlgo/obj/Debug/net10.0/ChessAlgo.dll
+/home/peter/Documents/Programming_Projects/ChessAlgo/obj/Debug/net10.0/refint/ChessAlgo.dll
+/home/peter/Documents/Programming_Projects/ChessAlgo/obj/Debug/net10.0/ChessAlgo.pdb
+/home/peter/Documents/Programming_Projects/ChessAlgo/obj/Debug/net10.0/ChessAlgo.genruntimeconfig.cache
+/home/peter/Documents/Programming_Projects/ChessAlgo/obj/Debug/net10.0/ref/ChessAlgo.dll
