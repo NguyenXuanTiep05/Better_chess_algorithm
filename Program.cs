@@ -25,7 +25,8 @@ class Program {
         
         while (true){
             Board.drawBoard();
-            // Console.WriteLine(GC.GetTotalMemory(false));
+            Console.WriteLine(GC.GetTotalMemory(false));
+            // Moves.Pawns(0x00F1000001000000, Board.AllOcc, true);
             Moves.Pawns(Board.White.Pawns, Board.AllOcc, true);
             Moves.Pawns(Board.Black.Pawns, Board.AllOcc, false);
             string move = Console.ReadLine() ?? "";
