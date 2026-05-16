@@ -9,7 +9,11 @@
 class Program {
     
     static void Main(){
-        
+        Console.Clear();
+        // Moves.preComputeKnight();
+        Moves.preComputeKing();
+        // Moves.preComputeKnight();
+
         var Board = new Board();
         
         char[] pieces = {
@@ -24,11 +28,11 @@ class Program {
         };
         
         while (true){
-            Board.drawBoard();
+            // Board.drawBoard();
             Console.WriteLine(GC.GetTotalMemory(false));
             // Moves.Pawns(0x00F1000001000000, Board.AllOcc, true);
-            Moves.Pawns(Board.White.Pawns, Board.AllOcc, true);
-            Moves.Pawns(Board.Black.Pawns, Board.AllOcc, false);
+            // Moves.Pawns(Board.White.Pawns, Board.AllOcc, true);
+            // Moves.Pawns(Board.Black.Pawns, Board.AllOcc, false);
             string move = Console.ReadLine() ?? "";
         }
 
